@@ -1,0 +1,18 @@
+p{
+    color: black;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 200;
+}
+h1{
+    color: bisque;
+    background-color: rgb(21, 243, 243);
+}
+h2{
+    color: blue;
+    background-color: rgb(5, 28, 28);
+}
+body{
+    background-color: blueviolet;
+}
